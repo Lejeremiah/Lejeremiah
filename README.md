@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning web security and penetration testing.
+- 📫 How to reach me: 2796925695@qq.com || lms.jeremiah@gmail.com
 <!--
 **Lejeremiah/Lejeremiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Lejeremiah&show_icons=true&theme=cobalt)](https://github.com/Lejeremiah/github-readme-stats)-->
+\n
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lejeremiah)](https://github.com/Lejeremiah/github-readme-stats)
