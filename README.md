@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lejeremiah&layout=compact)](https://github.com/Lejeremiah/github-readme-stats)
 
+<a href="https://lejeremiah.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
 <img src="https://komarev.com/ghpvc/?username=Lejeremiah&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
