@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning web security and penetration testing.
+- 🌱 I’m currently learning web security, penetration testing and of course misc.
 - 📫 How to reach me: 2796925695@qq.com lms.jeremiah@gmail.com
 <!--
 **Lejeremiah/Lejeremiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
